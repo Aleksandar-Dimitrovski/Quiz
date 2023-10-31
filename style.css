@@ -1,0 +1,12 @@
+form {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.questions {
+    padding: 30px;
+    font-size: 18px;
+    border: solid 2px black;
+    border-radius: 8px;
+    margin: 10px auto;
+}
